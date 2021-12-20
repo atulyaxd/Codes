@@ -15,7 +15,7 @@ import wikipedia
 import time
 import wolframalpha
 import requests
-import pywhatkit
+
 
 engine = pyttsx3.init()
 engine.setProperty("rate",178)#speed of speech
